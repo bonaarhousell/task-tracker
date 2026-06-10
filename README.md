@@ -1,7 +1,5 @@
 # Task Tracker CLI
 
-A simple command-line task tracker built with Python.
-
 This project allows users to manage tasks directly from the terminal using positional arguments and stores all data in a JSON file.
 
 Project idea from roadmap.sh:
